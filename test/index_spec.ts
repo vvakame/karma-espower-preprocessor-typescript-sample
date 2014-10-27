@@ -4,4 +4,3 @@
 /// <reference path="../typings/assert/assert.d.ts" />
 
 /// <reference path="./main_spec.ts" />
-/// <reference path="./subA/index_spec.ts" />
