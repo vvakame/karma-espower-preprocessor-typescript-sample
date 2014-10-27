@@ -1,0 +1,20 @@
+{
+  "name": "karma-espower-preprocessor-sample",
+  "version": "0.0.1",
+  "private": true,
+  "description": "",
+  "scripts": {
+    "test": "karma start"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "karma": "^0.12.24",
+    "karma-chrome-launcher": "^0.1.5",
+    "karma-espower-preprocessor": "^0.0.2",
+    "karma-jasmine": "^0.1.5",
+    "karma-mocha": "^0.1.9",
+    "mocha": "^2.0.1",
+    "power-assert": "^0.9.1"
+  }
+}
