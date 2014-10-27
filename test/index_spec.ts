@@ -5,4 +5,3 @@
 
 /// <reference path="./main_spec.ts" />
 /// <reference path="./subA/index_spec.ts" />
-/// <reference path="./subB/index_spec.ts" />
