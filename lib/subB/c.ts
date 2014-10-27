@@ -1,7 +1,7 @@
-module sub {
+module subB {
     "use strict";
 
-    export function b(word = "b") {
+    export function c(word = "c") {
         return "Oh, " + word;
     }
 }

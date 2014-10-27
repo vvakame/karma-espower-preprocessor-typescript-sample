@@ -1,7 +1,3 @@
-/// <reference path="./sub/index.ts" />
-
-function hello(word = "World") {
-    "use strict";
-
-    return "Hello, " + word;
-}
+/// <reference path="./main.ts" />
+/// <reference path="subA/index.ts" />
+/// <reference path="subB/index.ts" />

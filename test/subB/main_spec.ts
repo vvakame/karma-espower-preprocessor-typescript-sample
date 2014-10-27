@@ -1,14 +1,12 @@
-/// <reference path="./a_spec.ts" />
-
-describe("sub/index.ts", function () {
+describe("subB/main.ts", function () {
     describe("bye", function () {
         it("returns 'Good bye, world' without parameter", function () {
-            var result = sub.bye();
+            var result = subB.bye();
             assert(result === "Good bye, World");
         });
 
         it("returns 'Good bye, TypeScript' with parameter", function () {
-            var result = sub.bye("typeScript");
+            var result = subB.bye("typeScript");
             assert(result === "Good bye, TypeScript");
         });
     });
