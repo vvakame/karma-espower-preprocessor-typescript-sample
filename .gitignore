@@ -20,5 +20,17 @@ node_modules/
 # for bower
 bower_components/
 
+# for dtsm
+typings/
+
+# for tsc
+.tscache/
+lib/**/*.js
+lib/**/*.js.map
+lib/**/*.d.ts
+test/**/*.js
+test/**/*.js.map
+test/**/*.d.ts
+
 # for karma
 test/**/*.espowered.js

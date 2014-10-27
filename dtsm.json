@@ -1,0 +1,13 @@
+{
+  "baseRepo": "https://github.com/borisyankov/DefinitelyTyped.git",
+  "baseRef": "master",
+  "path": "typings",
+  "dependencies": {
+    "assert/assert.d.ts": {
+      "ref": "aacb0059e0030f861e2e502636f32fc442f71bf2"
+    },
+    "mocha/mocha.d.ts": {
+      "ref": "aacb0059e0030f861e2e502636f32fc442f71bf2"
+    }
+  }
+}
