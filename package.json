@@ -2,16 +2,16 @@
   "name": "karma-espower-preprocessor-sample",
   "version": "0.0.1",
   "private": true,
-  "description": "",
+  "description": "sample of karma-espower-preprocessor",
   "scripts": {
     "test": "karma start"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "vvakame",
+  "license": "MIT",
   "devDependencies": {
     "karma": "^0.12.24",
     "karma-chrome-launcher": "^0.1.5",
-    "karma-espower-preprocessor": "^0.0.2",
+    "karma-espower-preprocessor": "^0.0.3",
     "karma-jasmine": "^0.1.5",
     "karma-mocha": "^0.1.9",
     "mocha": "^2.0.1",
